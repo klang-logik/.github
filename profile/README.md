@@ -14,7 +14,7 @@ Professional Q-SYS plugins and tools for integrators and system designers.
 
 ## Downloads & Support
 
-All plugin downloads, release notes, bug reports and feature requests live in the
+All downloads, release notes, bug reports and feature requests live in the
 [**plugins**](https://github.com/klang-logik/plugins) repository.
 
 ## Contact
