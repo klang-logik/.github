@@ -2,17 +2,15 @@
 
 **audio · control · plugins**
 
-Professional Q-SYS plugins for integrators and system designers.
+Professional Q-SYS plugins and tools for integrators and system designers.
 
 ---
 
-## Plugins
+## Tools & Plugins
 
-| Plugin | Description |
+| Name | Description |
 |---|---|
-| [Log Fader](https://github.com/klang-logik/plugins/releases?q=log-fader) | Logarithmic fader control for Q-SYS |
-
-_More plugins coming soon._
+| [Note Taker](https://github.com/klang-logik/plugins/releases?q=note-taker) | Timecode-synced show notes — live browser clock synced to Q-SYS |
 
 ## Downloads & Support
 
